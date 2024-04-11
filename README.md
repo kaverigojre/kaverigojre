@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [kaverigojre.github.io/blogs/](kaverigojre.github.io/blogs/)
 
-- 💬 Ask me about **Microsoft Partner center APIs, Azure Devops, Azure PAAS, Azure EntraID, Microsoft 365,**
+- 💬 Ask me about **Microsoft Partner center APIs, Azure Devops, Azure PAAS, Azure EntraID, Microsoft 365**
 
 - 📫 How to reach me **kaverigojre@gmail.com**
 
