@@ -1,5 +1,3 @@
-[![MasterHead](https://www.yash.com/wp-content/uploads/2019/10/azure-devops-build-management.jpg)](https://kaverigojre.io)
-
 <h1 align="center">Hi 👋, I'm Kaveri Gojare</h1>
 <h3 align="center">A passionate Microsoft Azure Cloud Engineer </h3>
 
