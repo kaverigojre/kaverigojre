@@ -1,7 +1,7 @@
 [![MasterHead](https://www.yash.com/wp-content/uploads/2019/10/azure-devops-build-management.jpg)](https://kaverigojre.io)
 
 <h1 align="center">Hi 👋, I'm Kaveri Gojare</h1>
-<h3 align="center">A passionate Microsoft Azure DevOps Engineer from India</h3>
+<h3 align="center">A passionate Microsoft Azure DevOps Engineer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5757719/media/8d54d1bb057dcb82d41e5bcab83dff19.gif">
 
