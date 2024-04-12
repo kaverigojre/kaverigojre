@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5757719/media/8d54d1bb057dcb82d41e5bcab83dff19.gif">
 
 
-- 🌱 I’m currently learning **AWS, Azure OpenAI**
+- 🌱 I’m currently learning **AWS, Azure OpenAI ** 
 
 - 👨‍💻 All of my projects are available at [kaverigojre.github.io](kaverigojre.github.io)
 
