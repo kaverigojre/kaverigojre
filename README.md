@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [kaverigojre.github.io](kaverigojre.github.io)
 
-- 📝 I regularly write articles on [kaverigojre.github.io/blogs/](kaverigojre.github.io/blogs/)
+- 📝 I regularly write articles on [kaverigojre.github.io/blogs/](https://github.com/kaverigojre/kaverigojre/blob/main/blogs/index.md)
 
 - 💬 Ask me about **Microsoft Partner center APIs, Azure Devops, Azure PAAS, Azure EntraID, Microsoft 365**
 
