@@ -90,3 +90,7 @@ This made learning more practical and less overwhelming.
 AIOps is not a replacement for DevOps—it’s an extension of it. The goal is to make systems smarter, not more complicated.
 
 I’m still early in this journey, but it’s already changing how I think about monitoring and automation. Going forward, I plan to explore more real-world implementations and share my learnings along the way.
+
+- [AIOps Blog by Kaveri Gojare](https://kaverigojre.github.io/blogs/kaveri-gojare-aiops-journey)
+- Written by Kaveri Gojare  
+  
