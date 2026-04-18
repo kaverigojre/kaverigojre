@@ -1,5 +1,4 @@
 # Getting Started with AIOps: Kaveri Gojare exploring AIOps and cloud automation.
-# Getting Started with AIOps
 
 ![Woman in Tech AIOps](https://cdn.dribbble.com/userupload/16483778/file/original-6b2e93626d3ab12ce7dac551a6dcc5c6.png?resize=752x&vertical=center)
 
