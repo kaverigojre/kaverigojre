@@ -1,3 +1,3 @@
 # Blogs
 
-- [Getting Started with AIOps](https://kaverigojre.github.io/blogs/getting-started-with-aiops)
+- [AIOps Blog by Kaveri Gojare](https://kaverigojre.github.io/blogs/kaveri-gojare-aiops-journey)
